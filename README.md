@@ -13,7 +13,7 @@ it to 1 for male and 0 for female.*
 In linear regression, we use multiple features to create a linear model that best fits the data for prediction.
 
 The equation for linear regression generally looks like <br>
-  *survival = w1*Age + w2*Sex + w3*Fare + w4*Pclass + b* <br>
+  *survival = w1 x Age + w2 x Sex + w3 x Fare + w4 x Pclass + b* <br>
 In linear regression we find the proper weights for the w1 w2 w3 w4 and b using the gradient descent.
 Then using this weights we predict the possible value.
 
