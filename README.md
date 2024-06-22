@@ -14,7 +14,7 @@ In linear regression, we use multiple features to create a linear model that bes
 
 The equation, generally looks like
   survival = w1*Age + w2*Sex + w3*Fare + w4*Pclass + b
-in linear regression we find the proper weights for the w1 w2 w3 w4 and b are found using the gradient descent, For the proper
+in linear regression we find the proper weights for the w1 w2 w3 w4 and b using the gradient descent, For the proper
 prediction using the model.
 
 
