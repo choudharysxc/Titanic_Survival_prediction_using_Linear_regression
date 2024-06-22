@@ -1,8 +1,8 @@
 # Titanic_Survival_prediction_using_Linear_regression
  use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-The Software used are Jupyter Notebook and Python
-Library Used are Sklearn, Numpy, and Pandas.<br>
+The Software used are Jupyter Notebook and Python<br>
+Library Used are Sklearn, Numpy, and Pandas.
 
 We use Linear Regression to Predict which passanger might have survived the shipwreck and while doing so the 
 features we have considered are -: Age,Sex,Fare and Pclass.
