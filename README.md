@@ -7,7 +7,7 @@ Library Used are Sklearn, Numpy, and Pandas.
 We use Linear Regression to Predict which passanger might have survived the shipwreck and while doing so the 
 features we have considered are -: Age,Sex,Fare and Pclass.
 
-*One problem with Sex is that the original data contained 'Male' and Female as the  possible value. I changed 
+*One problem with Sex is that the original data contained 'Male' and 'Female' as the  possible value. I changed 
 it to 1 for male and 0 for female.*
 
 In linear regression, we use multiple features to create a linear model that best fits the data for prediction.
