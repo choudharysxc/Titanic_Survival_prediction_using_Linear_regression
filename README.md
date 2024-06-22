@@ -17,5 +17,6 @@ The equation for linear regression generally looks like <br>
 In linear regression we find the proper weights for the w1 w2 w3 w4 and b using the gradient descent.
 Then using this weights we predict the possible value.
 
+Accuracy Achieved :- 0.76
 
 
